@@ -1,0 +1,16 @@
+canvas {
+    border:1px solid #d3d3d3;
+    background-image: url(sky.jpg);
+    margin-top: 70%;
+}
+
+
+body{
+  height: 100%;
+    background: linear-gradient(rgba(20, 20, 20, 0.6), rgba(20, 20, 20, 0.6)), url(birds.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0% 15%;
+    color: white;
+}
